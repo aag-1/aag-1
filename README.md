@@ -1,5 +1,5 @@
 
-hardtype.vercel.app
+[https://hardtype.vercel.app/](https://hardtype.vercel.app/)
 
 ---------->
   Hey there! Im aag-1, an avid learner and tech enthusiast. Im currently in my first year of B.E.
