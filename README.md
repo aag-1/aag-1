@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡I am a First Year CSE major at PES University, Karnataka.<br><br><br>🔭 I’m currently working on Python, FastAPI, WebSocket, MySQL<br>👯 I’m looking to collaborate on interesting projects that enhance my skills<br><br> 
+⚡I am a First Year CSE major at PES University, Karnataka.<br>🔭 I’m currently working on Python, FastAPI, WebSocket, MySQL<br>👯 I’m looking to collaborate on interesting projects that enhance my skills<br><br> 
 
 
 # 💻 Tech Stack:
