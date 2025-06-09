@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hey! I am a CS major @ PESU, Karnataka. 
 POW : (Check out the repo's !!!)   
 1.Python SSG   
     2.Water Pump IOT control system   
