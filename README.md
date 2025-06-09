@@ -1,5 +1,5 @@
 # 💫 About Me:
-POW : (Check out the repo's !!!)
+POW : (Check out the repo's !!!)\n
 1.Python SSG
 2.Water Pump IOT control system
 3.HardType ( typing speed check)
