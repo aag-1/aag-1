@@ -1,10 +1,10 @@
 # 💫 About Me:
 Hey! I am a CS major @ PESU, Karnataka.       
 POW : (Check out the repo's !!!)   
-1.Python SSG   
-    2.Water Pump IOT control system   
-    3.HardType ( typing speed check)   
-    4.Websocket Realtime chat    
+**1.Python SSG  ** 
+    **2.Water Pump IOT control system   **
+   ** 3.HardType ( typing speed check) **  
+    **4.Websocket Realtime chat **   
     5.Under construction : C parser, random webpages im building   
 
 
