@@ -1,11 +1,33 @@
-# 💫 About Me:
-Hey! I am a CS major @ PESU, Karnataka.       
-POW : (Check out the repo's !!!)   
-1.Python SSG  
-    2.Water Pump IOT control system   
-    3.HardType ( typing speed check)  
-    4.Websocket Realtime chat 
-    5.Under construction : C parser, random webpages im building   
+# 🌟 About Me
+
+Hey! I am a **CS major @ PESU, Karnataka**.  
+I love building projects that mix **Python, IoT, Web, and Systems Programming** 🚀  
+
+---
+
+## 🔥 Projects of Work (POW)
+
+✨ Check out the repos!  
+
+- 🐍 **[Python SSG](#)**  
+  *A Static Site Generator built in Python to simplify web creation.*
+
+- 💧 **[Water Pump IoT Control System](#)**  
+  *IoT + Raspberry Pi based smart water management system.*
+
+- ⌨️ **[HardType](#)**  
+  *A typing speed checker tailored for coders (measures LPM - lines per minute).*
+
+- 💬 **[WebSocket Realtime Chat](#)**  
+  *A realtime chat app powered by WebSockets.*  
+
+- 🔨 **Under Construction**  
+  - ⚙️ C Parser  
+  - 🌐 Random Webpages I’m building  
+
+---
+
+📌 *More cool stuff in progress — stay tuned!*  
 
 
 # 💻 Tech Stack:
