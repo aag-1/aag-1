@@ -9,16 +9,16 @@ I love building projects that mix **Python, IoT, Web, and Systems Programming** 
 
 ✨ Check out the repos!  
 
-- 🐍 **[Python SSG](#)**  
+- 🐍 **[Python SSG](https://github.com/aag-1/PyStatGen)**  
   *A Static Site Generator built in Python to simplify web creation.*
 
-- 💧 **[Water Pump IoT Control System](#)**  
+- 💧 **[Water Pump IoT Control System](https://github.com/aag-1/water-pump-control-system)**  
   *IoT + Raspberry Pi based smart water management system.*
 
-- ⌨️ **[HardType](#)**  
+- ⌨️ **[HardType](https://github.com/aag-1/flask-hardtype-v1)**  
   *A typing speed checker tailored for coders (measures LPM - lines per minute).*
 
-- 💬 **[WebSocket Realtime Chat](#)**  
+- 💬 **[WebSocket Realtime Chat](https://github.com/aag-1/websocket-real-time-chat)**  
   *A realtime chat app powered by WebSockets.*  
 
 - 🔨 **Under Construction**  
