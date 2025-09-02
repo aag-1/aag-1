@@ -16,7 +16,7 @@ I love building projects that mix **Python, IoT, Web, and Systems Programming** 
   *IoT + Raspberry Pi based smart water management system.*
 
 - ⌨️ **[HardType](https://github.com/aag-1/flask-hardtype-v1)**  
-  *A typing speed checker tailored for coders (measures LPM - lines per minute).*
+  *A typing speed checker tailored for coders (measures WPM - Words per minute).*
 
 - 💬 **[WebSocket Realtime Chat](https://github.com/aag-1/websocket-real-time-chat)**  
   *A realtime chat app powered by WebSockets.*  
